@@ -1,0 +1,23 @@
+p{
+    text-align: left;
+    font-size: larger;
+}
+img{
+    
+    
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px 2px   #f80202;
+}
+body{
+    background-color: cadetblue;
+}
+h1{
+    color: #f80202;
+}
+p{
+    color: blueviolet;
+}
+small{
+    color: azure;
+}
